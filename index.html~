@@ -16,61 +16,19 @@
 
     <!-- HEADER -->	
     <header>
-        <a href="index.html" id="logo"><img src="img/theme-1/logo.png" alt="" /><img class="act" src="img/theme-1/logo-act.png" alt=""/></a>
+        <a href="index.html" id="logo"><img src="img/theme-1/logo.png" alt="Deliverwithus" /><img class="act" src="img/theme-1/logo-act.png" alt="Deliverwithus"/></a>
         <div class="mob-icon">
             <span></span>
         </div>
         <nav>
             <ul>   
-             <li><a href="http://www.eatwithus.in" target="_blank">Are you hungry?</a></li>
-                <li><a href="http://www.managewithus.com" target="_blank">Restaurant owner?</a></li>
+             <li><a href="http://www.eatwithus.in" target="_blank" alt="Deliverwithus">Are you hungry?</a></li>
+                <li><a href="http://www.managewithus.com" target="_blank" alt="Deliverwithus">Restaurant owner?</a></li>
                 <li><a href="#" style="background: #d80d0d;"><font color="white">Sign in</font></a></li>
                
             </ul>
         </nav>                                                                          
     </header>
-
-<!-- Original Code
-    <header>
-        <a href="index.html" id="logo"><img src="img/theme-1/logo.png" alt="" /><img class="act" src="img/theme-1/logo-act.png" alt=""/></a>
-        <div class="mob-icon">
-            <span></span>
-        </div>
-        <nav>
-            <ul>
-                <li class="submeny">
-                    <a href="#home" class="submeny-top act scroll-to-link">Home</a>
-                    <ul>
-                        <li><a href="index.html">home welcome banner</a></li>
-                        <li><a href="index-2.html">home banner with tabs</a></li>
-                        <li><a href="index-3.html">home banner-slider</a></li>
-                        <li><a href="index-4.html">home video banner</a></li>
-                    </ul>
-                </li>
-                <li><a href="#about" class="scroll-to-link">about</a></li>
-                <li><a href="#why" class="scroll-to-link">Why</a></li>
-                <li><a href="#benefits" class="scroll-to-link">benefits</a></li>
-                <li><a href="#how-it-work" class="scroll-to-link">how it work</a></li>
-                <li><a href="#tech-specs" class="scroll-to-link">tech specs</a></li>
-                <li><a href="#take-a-tour" class="scroll-to-link">take a tour</a></li>
-                <li><a href="#contact" class="scroll-to-link">contact</a></li>
-                <li class="submeny">
-                    <a href="#" class="submeny-top">Pages</a>
-                    <ul>
-                        <li><a href="blog.html">blog standart</a></li>
-                        <li><a href="blog-2.html">blog fullwidth</a></li>
-                        <li><a href="blog-3.html">blog left/right post</a></li>
-                        <li><a href="blog-detail.html">standart post</a></li>
-                        <li><a href="blog-detail-2.html">fullwidth post</a></li>
-                        <li><a href="gallery.html">gallery style 1</a></li>
-                        <li><a href="gallery-2.html">gallery style 2</a></li>
-                        <li><a href="el.html">elements</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </nav>                                                                          
-    </header>
-<!-- Original code -->
 
     <!-- LOADER -->
     <div id="loader-wrapper">
@@ -86,12 +44,19 @@ Deliverwithus
             <!-- BLOCK "TYPE 1" -->
             <div class="block type-1 scroll-to-block">
                 <div class="clip">	
+                    <div class="bg" style="background-image:url(img/content/Home-1/banner_1.jpg);">
+                    </div>
+                    <div class="bg-span"></div>
+                </div>
+
+                <!-- Home page video 
+		    <div class="clip">	
                     <video loop autoplay poster="assets/intro_for_ipad.jpg" class="bgvid">
                         <source src="assets/header-v5-ogg-1.ogg" type="video/ogg">
                         <source src="assets/header-v5-h264-2.mp4" type="video/mp4">
                     </video>
-                    <!-- <div class="bg-span"></div> -->
-                </div>
+                    </div> 
+		<-- Home page video -->
                 <div class="container type-1-text wow flipInX" data-wow-delay="0.3s">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 type-1-center" style="margin-left:95px;">
